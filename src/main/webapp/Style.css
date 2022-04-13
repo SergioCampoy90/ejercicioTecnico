@@ -1,0 +1,73 @@
+#box1 {
+	padding: 50px;
+}
+
+#header {
+	background-color: #ff9933;
+	color: #000033;
+}
+
+#menu {
+	background-color: #ff9933;
+	color: #000033;
+	margin-top: 10px;
+}
+
+.main {
+	display: flex;
+}
+
+.wallet-logo img {
+	display: flex;
+	margin-top: -5px;
+	margin-left: 20px;
+}
+
+a {
+	text-decoration: none !important;
+}
+
+.nav-link {
+	color: #000033 !important;
+}
+
+.nav-link:hover {
+	color: #ff9933 !important;
+	font-weight: 600;
+}
+
+.btn {
+	border: none !important;
+	font-weight: 600;
+	border-radius: 3rem;
+}
+
+.data {
+	margin-bottom: 30px;
+}
+
+.form-control {
+	margin: 10px 0 20px 20px;
+	padding: 10px 90px 10px 80px;
+	font-weight: 600;
+}
+
+h3 {
+	font-weight: 600;
+}
+
+#captcha {
+padding-left: 30px;
+}
+
+#footer {
+	position: fixed;
+	left: 0px;
+	bottom: 0px;
+	height: 60px;
+	width: 100%;
+	background: #333333;
+	color: white;
+	text-align: center;
+	padding-right: 30px;
+}
